@@ -1,0 +1,59 @@
+body {
+        background-color: black;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: scroll;
+        height: 100vh;
+         }
+
+     div {
+        padding: 15px;
+     }
+
+     img {
+        display: block;
+        margin: 0 auto;
+        position: left;
+     }
+
+     h1 {
+        text-align: center;
+        color: white;
+        }
+
+     h2 {
+        text-align: center;
+        }
+
+     h3 {
+        text-align: left;
+        }
+    
+     h4 {
+        text-align: left;
+        }
+
+     .places {
+        color: white;
+             }
+
+     img {
+        display: block;
+        justify-content: left;
+        align-items: left;
+        position: left;
+         }
+
+     .footnote {
+        color: white;
+     }
+
+     .hanna {
+      align-items: left;
+     }
+
+     p {
+      color: aliceblue;
+
+     }
